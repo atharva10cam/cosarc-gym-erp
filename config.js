@@ -1,0 +1,4 @@
+window.COSARC_SUPABASE_URL = "https://ccmalnekezlebsqxxlds.supabase.co";
+window.COSARC_SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNjbWFsbmVrZXpsZWJzcXh4bGRzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzgzNDUwNzMsImV4cCI6MjA5MzkyMTA3M30.HGYSrbuTaj2QIIVmsgMFrZ3xkQYtduq_gZlxMC5XE5c";
+window.COSARC_ENABLE_SUPABASE = true;
+window.COSARC_SESSION_MINUTES = 20;
